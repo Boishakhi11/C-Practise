@@ -18,7 +18,7 @@ int main () {
  result = sqrt(z);
  cout << endl << result;
 
- result = round(d);
+ result = round(dnt);
  cout << endl << result;
  return 0;
 };
